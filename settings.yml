@@ -17,7 +17,7 @@ global:
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
-    companies: LF AI Member Company
+    companies: S&P Global
 twitter:
   search: landscape.lfai.foundation
   url: 'https://landscape.lfai.foundation'
@@ -251,7 +251,7 @@ big_picture:
             top: 55
             title: LF AI Logo
       - type: HorizontalCategory
-        category: LF AI Member Company
+        category: S&P Global
         rows: 4
         width: 655
         height: 160
