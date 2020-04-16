@@ -1800,7 +1800,7 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
-    name: LF AI Member Company
+    name: S&P Member Company
     subcategories:
       - subcategory:
         name: Premium
