@@ -8,7 +8,7 @@ landscape:
           - item:
             name: AmazonEKS
             homepage_url: 'https://www.spglobal.com'
-            repo_url: 'https://github.com/Microsoft/LightGBM'
+            repo_url: null
             logo: accord-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/webank'
