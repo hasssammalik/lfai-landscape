@@ -1,7 +1,6 @@
 global:
   name: S&P Global DevOps Landscape
   short_name: S&P Global
-  repo: null
   website: 'https://www.spglobal.com'
   short_domain: spglobal.com
   company_url: 'https://www.spglobal.com'
