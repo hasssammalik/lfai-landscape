@@ -6,9 +6,9 @@ landscape:
         name: Framework
         items:
           - item:
-            name: S&P Global
+            name: AmazonEKS
             homepage_url: 'https://www.spglobal.com'
-            repo_url: null
+            repo_url: 'https://github.com/Microsoft/LightGBM'
             logo: accord-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/webank'
