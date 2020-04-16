@@ -6,12 +6,12 @@ landscape:
         name: Framework
         items:
           - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
+            name: S&P Global
+            homepage_url: 'https://www.spglobal.com'
+            repo_url: null
             logo: accord-net.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
+            crunchbase: 'https://www.crunchbase.com/organization/s-p-global'
           - item:
             name: FATE
             homepage_url: 'https://www.fedai.org/'
