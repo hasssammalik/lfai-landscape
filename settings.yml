@@ -6,14 +6,9 @@ global:
   short_domain: spglobal.com
   company_url: 'https://www.spglobal.com'
   email: info@spglobal.com
-  membership: null
-  self: null
-  slack_channel: null
   meta:
     title: S&P Global
-    fb_admin: null
     description: 'Filter and sort'
-    twitter: null
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
 home:
