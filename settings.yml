@@ -1,21 +1,3 @@
-global:
-  name: S&P Global DevOps Landscape
-  short_name: S&P Global
-  website: 'https://www.spglobal.com'
-  short_domain: spglobal.com
-  company_url: 'https://www.spglobal.com'
-  email: info@spglobal.com
-  meta:
-    title: S&P Global
-    description: 'Filter and sort'
-    google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-home:
-  header: >
-    <h1>S&P Global DevOps Landscape</h1> The S&P Global DevOps Landscape landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
-    href="images/landscape.pdf">pdf</a>) is dynamically generated below.
-  footer: |
-    S&P Global DevOps Landscape
 big_picture:
   main:
     tab_index: -1
