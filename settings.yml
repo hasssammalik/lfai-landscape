@@ -6,7 +6,7 @@ global:
   short_domain: spglobal.com
   company_url: 'https://spglobal.com'
   email: info@spglobal.com
-  membership: null
+  membership: S&P Member Company
   self: 'https://www.crunchbase.com/organization/s-p-global'
   slack_channel: null
   meta:
